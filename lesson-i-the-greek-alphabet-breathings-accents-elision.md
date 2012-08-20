@@ -46,11 +46,13 @@ Vowels are more problematic. Greek vowels can be divided into two types – shor
 	<thead>
 	<tr><td>Short</td><td>Long</td><td>Sound</td></tr>
 	</thead>
+	<tbody>
 	<tr><td>α</td><td>α</td><td>“a” as in father
 	<tr><td>ε</td><td>η</td><td>“e” as in fed, “ey” as in hey!</td></tr>
 	<tr><td>ι</td><td>ι</td><td>“i” as in hit, “ee” as in feed</td></tr>
 	<tr><td>ο</td><td>ω</td><td>“o” as in ton, “o” as in tome</td></tr>
 	<tr><td>υ</td><td>υ</td><td>“u” sound like German “Müller“</td></tr>
+</tbody>
 </table>
 
 As you can see, alpha, iota, and upsilon can be long or short, but the lengths of the other vowels are indicated by different letters. A Greek was expected to know when a letter was long or short if it had no unique letter attributed to length. You will come to recognize when these vowels are long or short with certain clues that appear, such as accents and declensional patterns. 
