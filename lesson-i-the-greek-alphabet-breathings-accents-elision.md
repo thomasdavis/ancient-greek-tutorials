@@ -1,4 +1,28 @@
 The Greek Alphabet:
+
+
+
+============= ==========================================================
+manager       some title
+============= ==========================================================
+generic       Provides abstractions for the reader, its books, and their
+              annotations.  Planned to be useful for all Sony ereaders,
+              but this has not been tested.
+------------- ----------------------------------------------------------
+prst1         Fills in the PRS-T1 specific parts of generic.
+------------- ----------------------------------------------------------
+pdfannotation Create PDF annotations and add them to PDF files.
+------------- ----------------------------------------------------------
+pagetext      Get the location of each character on a PDF page, and get
+              bounding boxes that contain certain characters.
+------------- ----------------------------------------------------------
+pdfdice       Cut the pages of a PDF file into subpages.
+------------- ----------------------------------------------------------
+pdfcontent    Adds content to PDF pages.  Includes a very simple SVG-to-
+              PDF converter.
+============= ==========================================================
+
+
 Uppercase	Lowercase	Name	Value
 Α	α	alpha	“Ah”
 Β	β	beta	“B”
@@ -23,6 +47,7 @@ Uppercase	Lowercase	Name	Value
 Φ	φ	phei	“p-h”/”f”
 Χ	χ	khei	“k-h”/”kh”
 Ψ	ψ	psei	“PS”
+
 Ω	ω	omega	“Oh”
 The alphabet contained both vowels and consonants, but their expected values are not necessarily what one would expect. Greek, after all, was a different language from English, and certain nuances of pronunciation were regarded as more vital than others by the Greeks. Much of the pronunciation of Classical Greek is conjectural, but we have reasonable ideas on how the language was pronounced.
 The consonants are easier to understand. Many resemble the Latin alphabet, and so are familiar to English speakers. Let’s look at them in detail.
