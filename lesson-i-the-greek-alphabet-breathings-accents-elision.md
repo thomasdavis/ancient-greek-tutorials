@@ -1,6 +1,6 @@
-The Greek Alphabet:
+**The Greek Alphabet:**
 
-
+# what
 
 ============= ==========================================================
 manager       some title
@@ -22,6 +22,55 @@ pdfcontent    Adds content to PDF pages.  Includes a very simple SVG-to-
               PDF converter.
 ============= ==========================================================
 
+Simple tables
+
+A simple table looks like this:
+
+  Author Name         First Book to Read       Genre
+  ----------------    ----------------------   ---------
+  Larry Niven         The Mode in God's Eye    SF
+  James Lovegrove     Worldstorm               Fantasy
+  China Mieville      Perdido Stree Station    Fantasy
+You can use the positioning of the dashes below the headers to set the column alignment to right, left or centered. So, if I decide to align the first column to the left, the middle column in the center and the right column on the right, I’d do this:
+
+  Author Name             First Book to Read              Genre
+  ----------------    -------------------------       ---------
+  Larry Niven           The Mode in God's Eye                SF
+  James Lovegrove            Worldstorm                 Fantasy
+  China Mieville        Perdido Stree Station           Fantasy
+Multiline tables
+
+If you need to put multiple lines in your table cells, then you’ll want to use a multi-line table. It will look something like this:
+
+  -------------------------------------------------------------
+  Author Name             First Book            Genre
+                          to Read              
+  ----------------    ---------------        ---------
+  Larry Niven           The Mode in                 SF
+  and Jerry             God's Eye
+  Pournelle
+
+  James                 Worldstorm             Fantasy
+  Lovegrove
+
+  China                 Perdido Street         Fantasy
+  Mieville              Station
+  ---------------------------------------------------------------
+Enclose the whole thing in a line with lots of dashes, put dashes below the headers and put empty lines between the rows.
+
+Grid tables
+
+If you use Emacs and are used to table mode, then this will be useful to you. If not, you can probably ignore this.
+
+  +-----------------+-----------------------+--------+
+  |Author Name      |First Book to Read     |Genre   |
+  +=================+=======================+========|
+  |Larry Niven      |The Mote in God's Eye  |SF      |
+  +-----------------+-----------------------+--------+
+  |James Lovegrove  |Worldstorm             |Fantasy |
+  +-----------------+-----------------------+--------+
+  |China Mieville   |Perdido Street Station |Fantasy |
+  +-----------------+-----------------------+--------+
 
 Uppercase	Lowercase	Name	Value
 Α	α	alpha	“Ah”
