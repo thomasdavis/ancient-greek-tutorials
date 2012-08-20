@@ -17,6 +17,6 @@ _.each(bookPages, function (page) {
 });
 _.each(pages, function(page){
 	page.contents = page.contents.replace(/table>/g, 'table class="table">');
-	var currentPage = _.template(indexTemplate, {pages: pages, currentPage: page.contents});
+	var currentPage = _.template(indexTemplate, {pages: pages, currentLink: page.link, currentPage: page.contents});
 	fs.writeFileSync(page.link, currentPage, 'utf8');
 });

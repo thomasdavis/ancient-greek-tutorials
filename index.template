@@ -7,27 +7,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <style>
-      body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-      }
-    </style>
-  
+  <style>
+  .logo {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 42px;
+    margin-left: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  thead td {
+    font-weight: bold;
+  }
+  </style>
   </head>
-
   <body>
 
-
+<h1 class="logo">Ancient Greek Lessons</h1>
+<hr />
  <div class="row-fluid">
   <div class="span3">
-      <ul class="nav nav-list">
+      <ol class="nav nav-list">
     <% _.each(pages, function(page) { %>
-    <li><a href="<%= page.link %>"><%= page.title %></a></li>
+    <li class="<%= page.link === currentLink ? 'active' : '' %>"><a href="<%= page.link %>"><%= page.title %></a></li>
     <% }); %>
-  </ul>
+  </ol>
   </div>
   <div class="span9">
   <%= currentPage %>
