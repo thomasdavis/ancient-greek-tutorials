@@ -43,7 +43,9 @@ A special rule applied when the letter gamma was followed by another palatal (ka
 Vowels are more problematic. Greek vowels can be divided into two types – short and long. The difference between them is not what one would expect from English. Short and long vowels were not pronounced differently. Rather, long vowels simply were pronounced longer than short ones, and any pronunciation differences were solely incidental to the time spent saying them. Some vowels had a short letter and a long letter companion, but not all. Let’s see how this works out.
 
 <table>
+	<thead>
 	<th><td>Short</td><td>Long</td><td>Sound</td></th>
+	</thead>
 	<tr><td>α</td><td>α</td><td>“a” as in father
 	<tr><td>ε</td><td>η</td><td>“e” as in fed, “ey” as in hey!</td></tr>
 	<tr><td>ι</td><td>ι</td><td>“i” as in hit, “ee” as in feed</td></tr>
