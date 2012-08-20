@@ -66,29 +66,47 @@ Sometimes, it’s not important to know. For now, just take it on faith that the
 
 Examples of short vowels with iota:
 
-diphthong	sound
-αι	sounds like "i" in "hi!"
-ει	sounds like "ay" in "say"
-οι	sounds like "oy" in "soy"
-υι	sounds like "wi" in "win"
+<table>
+	<thead>
+		<tr><td>diphthong</td><td>sound</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>αι</td><td>sounds like "i" in "hi!"</td></tr>
+		<tr><td>ει</td><td>sounds like "ay" in "say"</td></tr>
+		<tr><td>οι</td><td>sounds like "oy" in "soy"</td></tr>
+		<tr><td>υι</td><td>sounds like "wi" in "win"</td></tr>
+	</tbody>
+</table>
 
 Examples of long vowels with iota:
 
-diphthong	sound
-ᾳ	like αι but longer
-ῃ	like ει but longer, and sometimes interchangeable
-ῳ	like οι but longer
+
+<table>
+	<thead>
+		<tr><td>diphthong</td><td>sound</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>ᾳ</td><td>like αι but longer</td></tr>
+		<tr><td>ῃ</td><td>like ει but longer, and sometimes interchangeable</td></tr>
+		<tr><td>ῳ</td><td>like οι but longer</td></tr>
+	</tbody>
+</table>
 
 Notice how, when the initial vowel is long, the iota that follows is placed underneath, in a process called the iota subscript.
 
 Finally, we have diphthongs with upsilon:
 
-diphthong	sound
-αυ	sounds like "aw" in "saw"
-ευ	sounds like "ewwww!"
-ου	sounds like "ou" in "soup"
-ηυ	sounds about the same as ευ, and the two were often interchangeable
-
+<table>
+	<thead>
+		<tr><td>diphthong</td><td>sound</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>αυ</td><td>sounds like "aw" in "saw"</td></tr>
+		<tr><td>ευ</td><td>sounds like "ewwww!"</td></tr>
+		<tr><td>ου</td><td>sounds like "ou" in "soup"</td></tr>
+		<tr><td>ηυ</td><td>sounds about the same as ευ, and the two were often interchangeable</td></tr>
+	</tbody>
+</table>
 
 There were two characters not strictly part of the alphabet that were nonetheless used. They were the two breathing marks. The smooth breathing mark looked like a circle open on the left, as in the first alpha of ἀγορά. It had no pronounced value. The rough breathing mark was a circle that was open to the right, as in ὥρα. It was pronounced as a soft "h". 
 
