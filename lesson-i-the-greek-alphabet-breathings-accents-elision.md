@@ -2,7 +2,7 @@
 
 <table>
 	<thead>
-		<th><td>Uppercase</td><td>Lowercase</td><td>Name</td><td>Value</td></th>
+		<tr><td>Uppercase</td><td>Lowercase</td><td>Name</td><td>Value</td></tr>
 	</thead>
 	<tbody>
 		<tr><td>Α</td><td>α</td>alpha<td>“Ah”</td></tr>
