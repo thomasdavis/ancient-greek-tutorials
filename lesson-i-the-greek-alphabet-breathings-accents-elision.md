@@ -5,7 +5,7 @@
 		<tr><td>Uppercase</td><td>Lowercase</td><td>Name</td><td>Value</td></tr>
 	</thead>
 	<tbody>
-		<tr><td>Α</td><td>α</td>alpha</td><td>“Ah”</td></tr>
+		<tr><td>Α</td><td>α</td><td>alpha</td><td>“Ah”</td></tr>
 		<tr><td>Β</td><td>β</td><td>beta</td><td>“B”</td></tr>
 		<tr><td>Γ</td><td>γ</td><td>gamma</td><td>“G”</td></tr>
 		<tr><td>Δ</td><td>δ</td><td>delta</td><td>“D”</td></tr>
