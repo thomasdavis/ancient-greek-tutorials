@@ -1,31 +1,35 @@
 # The Greek Alphabet
 
 <table>
-	<th><td>Uppercase</td><td>Lowercase</td><td>Name</td><td>Value</td></th>
-	<tr><td>Α</td><td>α</td>alpha<td>“Ah”</td></tr>
-	<tr><td>Β</td><td>β</td><td>beta</td><td>“B”</td></tr>
-	<tr><td>Γ</td><td>γ</td><td>gamma</td><td>“G”</td></tr>
-	<tr><td>Δ</td><td>δ</td><td>delta</td><td>“D”</td></tr>
-	<tr><td>Ε</td><td>ε</td><td>epsilon</td><td>“Eh”</td></tr>
-	<tr><td>Ζζ</td><td>zeta</td><td>“Dz”</td></tr>
-	<tr><td>Η</td><td>η</td><td>eta</td><td>“Ey”</td></tr>
-	<tr><td>Θ</td><td>θ</td><td>theta</td><td>“Th”</td></tr>
-	<tr><td>Ι</td><td>ι</td><td>iota</td><td>“Ih”/“Ee”</td></tr>
-	<tr><td>Κ</td><td>κ</td><td>kappa</td><td>“K”</td></tr>
-	<tr><td>Λ</td><td>λ</td><td>lambda</td><td>“L”</td></tr>
-	<tr><td>Μ</td><td>μ</td><td>mu</td><td>“M”</td></tr>
-	<tr><td>Ν</td><td>ν</td><td>nu</td><td>“N”</td></tr>
-	<tr><td>Ξ</td><td>ξ</td><td>xei</td><td>“X”</td></tr>
-	<tr><td>Ο</td><td>ο</td><td>omicron</td><td>“O”</td></tr>
-	<tr><td>Π</td><td>π</td><td>pei</td><td>“P”</td></tr>
-	<tr><td>Ρ</td><td>ρ</td><td>rho</td><td>“R”</td></tr>
-	<tr><td>Σ</td><td>σ/ς</td><td>sigma</td><td>“S”</td></tr>
-	<tr><td>Τ</td><td>τ</td><td>tau</td><td>“T”</td></tr>
-	<tr><td>Υ</td><td>υ</td><td>upsilon</td><td>“Ue”</td></tr>
-	<tr><td>Φ</td><td>φ</td><td>phei</td><td>“p-h”/”f”</td></tr>
-	<tr><td>Χ</td><td>χ</td><td>khei</td><td>“k-h”/”kh”</td></tr>
-	<tr><td>Ψ</td><td>ψ</td><td>psei</td><td>“PS”</td></tr>
-	<tr><td>Ω</td><td>ω</td><td>omega</td><td>“Oh”</td></tr>
+	<thead>
+		<th><td>Uppercase</td><td>Lowercase</td><td>Name</td><td>Value</td></th>
+	</thead>
+	<tbody>
+		<tr><td>Α</td><td>α</td>alpha<td>“Ah”</td></tr>
+		<tr><td>Β</td><td>β</td><td>beta</td><td>“B”</td></tr>
+		<tr><td>Γ</td><td>γ</td><td>gamma</td><td>“G”</td></tr>
+		<tr><td>Δ</td><td>δ</td><td>delta</td><td>“D”</td></tr>
+		<tr><td>Ε</td><td>ε</td><td>epsilon</td><td>“Eh”</td></tr>
+		<tr><td>Ζ</td><td>ζ</td><td>zeta</td><td>“Dz”</td></tr>
+		<tr><td>Η</td><td>η</td><td>eta</td><td>“Ey”</td></tr>
+		<tr><td>Θ</td><td>θ</td><td>theta</td><td>“Th”</td></tr>
+		<tr><td>Ι</td><td>ι</td><td>iota</td><td>“Ih”/“Ee”</td></tr>
+		<tr><td>Κ</td><td>κ</td><td>kappa</td><td>“K”</td></tr>
+		<tr><td>Λ</td><td>λ</td><td>lambda</td><td>“L”</td></tr>
+		<tr><td>Μ</td><td>μ</td><td>mu</td><td>“M”</td></tr>
+		<tr><td>Ν</td><td>ν</td><td>nu</td><td>“N”</td></tr>
+		<tr><td>Ξ</td><td>ξ</td><td>xei</td><td>“X”</td></tr>
+		<tr><td>Ο</td><td>ο</td><td>omicron</td><td>“O”</td></tr>
+		<tr><td>Π</td><td>π</td><td>pei</td><td>“P”</td></tr>
+		<tr><td>Ρ</td><td>ρ</td><td>rho</td><td>“R”</td></tr>
+		<tr><td>Σ</td><td>σ/ς</td><td>sigma</td><td>“S”</td></tr>
+		<tr><td>Τ</td><td>τ</td><td>tau</td><td>“T”</td></tr>
+		<tr><td>Υ</td><td>υ</td><td>upsilon</td><td>“Ue”</td></tr>
+		<tr><td>Φ</td><td>φ</td><td>phei</td><td>“p-h”/”f”</td></tr>
+		<tr><td>Χ</td><td>χ</td><td>khei</td><td>“k-h”/”kh”</td></tr>
+		<tr><td>Ψ</td><td>ψ</td><td>psei</td><td>“PS”</td></tr>
+		<tr><td>Ω</td><td>ω</td><td>omega</td><td>“Oh”</td></tr>
+	</tbody>
 </table>
 
 The alphabet contained both vowels and consonants, but their expected values are not necessarily what one would expect. Greek, after all, was a different language from English, and certain nuances of pronunciation were regarded as more vital than others by the Greeks. Much of the pronunciation of Classical Greek is conjectural, but we have reasonable ideas on how the language was pronounced.
