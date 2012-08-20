@@ -44,7 +44,7 @@ Vowels are more problematic. Greek vowels can be divided into two types – shor
 
 <table>
 	<thead>
-	<th><td>Short</td><td>Long</td><td>Sound</td></th>
+	<tr><td>Short</td><td>Long</td><td>Sound</td></tr>
 	</thead>
 	<tr><td>α</td><td>α</td><td>“a” as in father
 	<tr><td>ε</td><td>η</td><td>“e” as in fed, “ey” as in hey!</td></tr>
